@@ -2,7 +2,7 @@
 Implement the foundational layers of CNNs (pooling, convolutions) and stack them properly in a deep network to solve multi-class image classification problems.
 **
 Learning Objectives**
-Explain the convolution operation
+Explain the convolution operation \n
 Apply two different types of pooling operations
 Identify the components used in a convolutional neural network (padding, stride, filter, ...) and their purpose
 Build a convolutional neural network
